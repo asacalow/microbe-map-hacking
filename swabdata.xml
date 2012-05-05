@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<swabdata>
+  <team number="2">
+    <sample letter="A" name="Stevenson Square EB" longlat="53.48241, -2.23374" dir="out" loc="Time Table" colonies="33" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738020960/in/set-72157626752827976/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2250/5738020960_e4f29d48d1_q.jpg</thumb>
+    </sample>
+    <sample letter="B" name="Stevenson Square EB" longlat="53.48300, -2.23432 " dir="in" loc="Seat" colonies="62" types="5">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738020116/in/set-72157626752827976/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5069/5738020116_5c2c554819_q.jpg</thumb>
+    </sample>
+    <sample letter="C" name="Stevenson Square East EB" longlat="53.48286, -2.2336 " dir="in" loc="Time Table" colonies="7" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738020278/in/set-72157626752827976/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5221/5738020278_fbec52383b_q.jpg</thumb>
+    </sample>
+    <sample letter="D" name="Stevenson Square East EB" longlat="53.48286, -2.2336 " dir="in" loc="Seat" colonies="34" types="5">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737468891/in/set-72157626752827976/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3637/5737468891_f11f68434a_q.jpg</thumb>
+    </sample>
+    <sample letter="E" name="Piccadilly Gardens M" longlat="53.48028, -2.23741" dir="in" loc="Time Table" colonies="6" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738021568/in/set-72157626752827976/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2395/5738021568_40e1f2f1f5_q.jpg</thumb>
+    </sample>
+    <sample letter="F" name="Piccadilly Gardens H" longlat="53.48064, -2.23819" dir="in" loc="Time Table" colonies="39" types="4">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737469607/in/set-72157626752827976/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5222/5737469607_3863d46742_q.jpg</thumb>
+    </sample>
+    <sample letter="G" name="Piccadilly Gardens G" longlat="53.48085, -2.23841" dir="in" loc="Time Table" colonies="4" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737469807/in/set-72157626752827976/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5266/5737469807_0b10d9ebb0_q.jpg</thumb>
+    </sample>
+  </team>
+  <team number="3">
+    <sample letter="A" name="EB0774" longlat="53.4559,-2.2254" dir="out" loc="Time Table" colonies="9" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734642095/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3558/5734642095_a71c2e91d7_q.jpg</thumb>
+    </sample>
+    <sample letter="B" name="EB0776" longlat="53.4536,-2.2232" dir="out" loc="Time Table" colonies="3" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735190702/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2614/5735190702_556f6300bb_q.jpg</thumb>
+    </sample>
+    <sample letter="C" name="EB0777 (Stop E)" longlat="53.45266,-2.22250" dir="out" loc="Seat" colonies="100" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734641179/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5023/5734641179_77c2a17a45_q.jpg</thumb>
+    </sample>
+    <sample letter="D" name="EB0777 (Stop E)" longlat="53.45266,-2.22250" dir="out" loc="Time Table" colonies="8" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734641283/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2409/5734641283_7d1f7f016e_q.jpg</thumb>
+    </sample>
+    <sample letter="E" name="EB0778" longlat="53.45069,-2.22139" dir="out" loc="Seat" colonies="2" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734641179/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5023/5734641179_77c2a17a45_q.jpg</thumb>
+    </sample>
+    <sample letter="F" name="EB0778" longlat="53.45069,-2.22139" dir="out" loc="Time Table" colonies="31" types="5">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735190260/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3018/5735190260_b5bce211ce_q.jpg</thumb>
+    </sample>
+    <sample letter="G" name="EB0784 (Stop B)" longlat="53.44346,-2.21837" dir="out" loc="Seat" colonies="17" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735191028/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5063/5735191028_24ae44c29a_q.jpg</thumb>
+    </sample>
+    <sample letter="H" name="EB0784 (Stop B)" longlat="53.44346,-2.21837" dir="out" loc="Time Table" colonies="18" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735191172/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3654/5735191172_c714f86c9c_q.jpg</thumb>
+    </sample>
+    <sample letter="I" name="SB3394 (Stop F)" longlat="53.44077,-2.21920" dir="out" loc="Seat" colonies="5" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734641759/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2110/5734641759_68969083c1_q.jpg</thumb>
+    </sample>
+    <sample letter="J" name="SB3394 (Stop F)" longlat="53.44077,-2.21920" dir="out" loc="Time Table" colonies="30" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734641623/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3420/5734641623_8f26611494_q.jpg</thumb>
+    </sample>
+  </team>
+  <team number="4">
+    <sample letter="A" name="Chetham's" longlat="53.48583,-2.24476" dir="out" loc="Time Table" colonies="1" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734642405</imagepage>
+      <thumb>http://farm6.staticflickr.com/5144/5734642405_99e3002fc0_q.jpg</thumb>
+    </sample>
+    <sample letter="B" name="Cathedral" longlat="53.48472,-2.24525" dir="out" loc="Time Table" colonies="17" types="5">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734638703/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3260/5734638703_1eda9f41f2_q.jpg</thumb>
+    </sample>
+    <sample letter="C" name="Harvey Nichol's" longlat="53.48376,-2.24584" dir="out" loc="Time Table" colonies="18" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734642873/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3110/5734642873_11b6c40b11_q.jpg</thumb>
+    </sample>
+    <sample letter="D" name="Barton Arcade" longlat="53.48276,-2.24660" dir="out" loc="Time Table" colonies="113" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735191888</imagepage>
+      <thumb>http://farm6.staticflickr.com/5310/5735191888_d3d8496cc3_q.jpg</thumb>
+    </sample>
+    <sample letter="E" name="Forsyth's" longlat="53.48124,-2.24784" dir="out" loc="Time Table" colonies="15" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734638821/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3507/5734638821_2292bd552a_q.jpg</thumb>
+    </sample>
+    <sample letter="F" name="RBS" longlat="53.48011,-2.24862" dir="out" loc="Time Table" colonies="5" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735188144/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5186/5735188144_b2c11ac85c_q.jpg</thumb>
+    </sample>
+    <sample letter="G" name="Sutton's City Living" longlat="53.47788,-2.24968" dir="out" loc="Time Table" colonies="9" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735188388</imagepage>
+      <thumb>http://farm2.staticflickr.com/1403/5735188388_01dc7e0679_q.jpg</thumb>
+    </sample>
+    <sample letter="H" name="Evuna" longlat="53.47646,-2.25066" dir="out" loc="Time Table" colonies="127" types="4">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734639067</imagepage>
+      <thumb>http://farm3.staticflickr.com/2057/5734639067_e3d12dc835_q.jpg</thumb>
+    </sample>
+    <sample letter="I" name="Santander" longlat="53.47663,-2.25068" dir="out" loc="Time Table" colonies="4" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735188502/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3635/5735188502_00b527854c_q.jpg</thumb>
+    </sample>
+    <sample letter="J" name="Centurion House" longlat="53.47987,-2.24849" dir="out" loc="Time Table" colonies="11" types="4">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734639405</imagepage>
+      <thumb>http://farm6.staticflickr.com/5228/5734639405_2803c1411b_q.jpg</thumb>
+    </sample>
+  </team>
+  <team number="5">
+    <sample letter="A" name="Oldham Rd / New Cross" longlat="53.48516,-2.23262" dir="out" loc="" colonies="8" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734640193/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3316/5734640193_3d4622ec9a_q.jpg</thumb>
+    </sample>
+    <sample letter="B" name="Oldham Rd / New Cross" longlat="53.48516,-2.23262" dir="out" loc="Seat" colonies="1" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735189094/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5146/5735189094_078e9ae8c0_q.jpg</thumb>
+    </sample>
+    <sample letter="C" name="Oldham Rd / Thompson St" longlat="53.48745,-2.23365" dir="in" loc="" colonies="14" types="4">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734640327/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3396/5734640327_d31b89732e_q.jpg</thumb>
+    </sample>
+    <sample letter="D" name="Oldham Rd / Thompson St" longlat="53.48745,-2.23365" dir="in" loc="" colonies="400" types="4">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734640733/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3551/5734640733_07c701e0f5_q.jpg</thumb>
+    </sample>
+    <sample letter="E" name="Oldham Rd / Butler St" longlat="53.48872,-2.22249" dir="in" loc="" colonies="5" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735188848/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2675/5735188848_8293a55a6f_q.jpg</thumb>
+    </sample>
+    <sample letter="F" name="Oldham Rd / Butler St" longlat="53.48872,-2.22249" dir="in" loc="" colonies="5" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734639771/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2644/5734639771_621df7924a_q.jpg</thumb>
+    </sample>
+    <sample letter="G" name="Oldham Rd / Naylor St" longlat="53.48994,-2.22091" dir="in" loc="" colonies="14" types="4">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734640473/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3311/5734640473_211ec4ee88_q.jpg</thumb>
+    </sample>
+    <sample letter="H" name="Oldham Rd / Naylor St" longlat="53.48994,-2.22091" dir="in" loc="" colonies="52" types="4">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735189222/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2178/5735189222_4bd0b159e6_q.jpg</thumb>
+    </sample>
+    <sample letter="I" name="Oldham Rd / Grimshaw Ln" longlat="53.49791,-2.2039" dir="in" loc="" colonies="3" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735188740/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3082/5735188740_4c35535acb_q.jpg</thumb>
+    </sample>
+    <sample letter="J" name="Oldham Rd / Grimshaw Ln" longlat="53.49791,-2.2039" dir="in" loc="" colonies="27" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735189768/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3219/5735189768_778878037f_q.jpg</thumb>
+    </sample>
+  </team>
+  <team number="6">
+    <sample letter="A" name="Picc Station (Stop 3)" longlat="53.4777, -2.2318" dir="out" loc="Time Table" colonies="1" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738022026/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5302/5738022026_388d038883_q.jpg</thumb>
+    </sample>
+    <sample letter="B" name="Piccadilly Station (Stop 3)" longlat="53.4777, -2.2318" dir="out" loc="Seat" colonies="0" types="0">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738021884/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2589/5738021884_b7ffa7081a_q.jpg</thumb>
+    </sample>
+    <sample letter="C" name="Outside Subway (Stop 1)" longlat="53.4783, -2.2320" dir="out" loc="Time Table" colonies="3" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737470515/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3617/5737470515_375376deee_q.jpg</thumb>
+    </sample>
+    <sample letter="D" name="Outside Subway (Stop 1)" longlat="53.4783, -2.2320" dir="out" loc="Seat" colonies="1" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737470635/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5270/5737470635_2d8bcc67ae_q.jpg</thumb>
+    </sample>
+    <sample letter="E" name="Paton Street (Stop EQ)" longlat="53.4793, -2.2329" dir="out" loc="Time Table" colonies="0" types="0">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738022444/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2369/5738022444_db9d173355_q.jpg</thumb>
+    </sample>
+    <sample letter="F" name="Paton Street (Stop EQ)" longlat="53.4793, -2.2329" dir="out" loc="Seat" colonies="7" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737470977/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2294/5737470977_0d2a012d77_q.jpg</thumb>
+    </sample>
+    <sample letter="G" name="Paton Street (Stop EP)" longlat="53.4803, -2.2337" dir="out" loc="Time Table" colonies="4" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738022762/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5264/5738022762_7aa18d554c_q.jpg</thumb>
+    </sample>
+    <sample letter="H" name="Paton Street (Stop EP)" longlat="53.4803, -2.2337" dir="out" loc="Seat" colonies="0" types="0">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737471175/</imagepage>
+      <thumb>http://farm3.staticflickr.com/2465/5737471175_afbd854dd8_q.jpg</thumb>
+    </sample>
+    <sample letter="I" name="Portland Street nr. Tesco (Stop EW)" longlat="53.4806, -2.2345" dir="in" loc="Time Table" colonies="4" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738023030/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5187/5738023030_3356436e23_q.jpg</thumb>
+    </sample>
+    <sample letter="J" name="Portland Street nr. Tesco (Stop EW)" longlat="53.4806, -2.2345" dir="in" loc="Seat" colonies="1" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5738023196/</imagepage>
+      <thumb>http://farm6.staticflickr.com/5307/5738023196_5993b1d0b8_q.jpg</thumb>
+    </sample>
+  </team>
+  <team number="7">
+    <sample letter="A" name="Newton Street" longlat="53.48129,-2.23363" dir="out" loc="Time Table" colonies="3" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736857349/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3499/5736857349_9c545655e1_q.jpg</thumb>
+    </sample>
+    <sample letter="B" name="Newton Street" longlat="53.48129,-2.23363" dir="out" loc="Bus Pole" colonies="6" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737408158/in/set-72157626752827976</imagepage>
+      <thumb>http://farm6.staticflickr.com/5270/5737408158_f728d29e25_q.jpg</thumb>
+    </sample>
+    <sample letter="C" name="Manchester City Centre, Portland Street/Chorlton St (Stop Cu)" longlat="53.47843,-2.23844" dir="out" loc="Bus Stop" colonies="22" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737408488/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3515/5737408488_becb83532d_q.jpg</thumb>
+    </sample>
+    <sample letter="D" name="Manchester City Centre, Portland Street/Chorlton St (Stop Cu)" longlat="53.47843,-2.23844" dir="out" loc="Time Table" colonies="58" types="4">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737408660/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2416/5737408660_5aa0ec0cca_q.jpg</thumb>
+    </sample>
+    <sample letter="E" name="Manchester City Centre, Portland Street/Sackville Street (SW-bound)‎" longlat="53.47832,-2.23858" dir="out" loc="Seat" colonies="118" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736857785/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2268/5736857785_ef17ea9049_q.jpg</thumb>
+    </sample>
+    <sample letter="F" name="Manchester City Centre, Portland Street/Sackville Street (SW-bound)‎" longlat="53.47832,-2.23858" dir="out" loc="Time Table" colonies="12" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737408918/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3457/5737408918_c19c94feb0_q.jpg</thumb>
+    </sample>
+    <sample letter="G" name="Manchester City Centre, Chepstow St/Oxford St (Stop SV)‎" longlat="53.47957,-2.24312" dir="out" loc="Bus Stop" colonies="2" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736858165/in/set-72157626752827976</imagepage>
+      <thumb>http://farm6.staticflickr.com/5181/5736858165_4ee6bd3466_q.jpg</thumb>
+    </sample>
+    <sample letter="H" name="Manchester City Centre, Chepstow St/Oxford St (Stop SV)‎" longlat="53.47957,-2.24312" dir="out" loc="Bus Pole" colonies="2" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737409282/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2166/5737409282_0bf9be4128_q.jpg</thumb>
+    </sample>
+    <sample letter="I" name="Piccadilly Gardens, Portland Street/Chorlton St (NE-bound)‎" longlat="53.47907,-2.23801" dir="in" loc="Time Table" colonies="4" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736858505/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2804/5736858505_3b7a904655_q.jpg</thumb>
+    </sample>
+    <sample letter="J" name="Piccadilly Gardens, Portland Street/Chorlton St (NE-bound)‎" longlat="53.47907,-2.23801" dir="in" loc="Bus Pole" colonies="8" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736858671/in/set-72157626752827976</imagepage>
+      <thumb>http://farm6.staticflickr.com/5229/5736858671_4d7c3cddd2_q.jpg</thumb>
+    </sample>
+  </team>
+  <team number="9">
+    <sample letter="A" name="Manchester City Centre, Corporation St" longlat="53.48550,-2.2420" dir="out" loc="Seat" colonies="6" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737405384/in/set-72157626752827976/</imagepage>
+      <thumb>http://farm4.staticflickr.com/3527/5737405384_e95c059ff1_q.jpg</thumb>
+    </sample>
+    <sample letter="B" name="Manchester City Centre, Corporation St" longlat="53.48550,-2.2420" dir="out" loc="Timetable" colonies="10" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737405562/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2175/5737405562_64a9a98755_q.jpg</thumb>
+    </sample>
+    <sample letter="C" name="Manchester City Centre, Corporation Street/Withy Gr" longlat="53.48566,-2.2415" dir="in" loc="Seat" colonies="7" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736855187/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3540/5736855187_1d8d29792c_q.jpg</thumb>
+    </sample>
+    <sample letter="D" name="Manchester City Centre, Corporation Street/Withy Gr" longlat="53.48566,-2.2415" dir="in" loc="Timetable" colonies="2" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736855011/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3023/5736855011_1658bfab3e_q.jpg</thumb>
+    </sample>
+    <sample letter="E" name="Newtown, Rochdale Road/Miller Street" longlat="53.48663,-2.2358" dir="out" loc="Seat" colonies="17" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737405086/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3109/5737405086_b418a15c69_q.jpg</thumb>
+    </sample>
+    <sample letter="F" name="Newtown, Rochdale Road/Miller Street" longlat="53.48566,-2.2415" dir="out" loc="Timetable" colonies="23" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736854061/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3352/5736854061_03943481f9_q.jpg</thumb>
+    </sample>
+    <sample letter="G" name="Newtown, Rochdale Road/Thompson Street" longlat="53.48741,-2.2336" dir="in" loc="Timetable" colonies="20" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736855409/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3024/5736855409_51df22a777_q.jpg</thumb>
+    </sample>
+    <sample letter="H" name="Newtown, opp Royal Mail Rochdale Road/Suddell Street‎" longlat="53.48825,-2.2321" dir="out" loc="Seat" colonies="5" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5736854771/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3520/5736854771_6c53097103_q.jpg</thumb>
+    </sample>
+    <sample letter="I" name="Newtown, opp Royal Mail Rochdale Road/Suddell Street‎" longlat="53.48566,-2.2415" dir="out" loc="Timetable" colonies="12" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5737405722/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2355/5737405722_ae6007a179_q.jpg</thumb>
+    </sample>
+  </team>
+  <team number="10">
+    <sample letter="A" name="St Peters Square (Stop SZ)" longlat="53.4775, -2.2434" dir="out" loc="Seat" colonies="&gt;500" types="5">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735194900/in/set-72157626752827976</imagepage>
+      <thumb>http://farm6.staticflickr.com/5308/5735194900_fee0d63518_q.jpg</thumb>
+    </sample>
+    <sample letter="B" name="St Peters Square (Stop SZ)" longlat="53.4775, -2.2434" dir="out" loc="Map" colonies="79" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734645055/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3451/5734645055_0a0490b875_q.jpg</thumb>
+    </sample>
+    <sample letter="C" name="Mount Street (Stop SK)" longlat="53.4772, -2.2458" dir="in" loc="Map" colonies="14" types="1">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734643727/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2038/5734643727_8606137288_q.jpg</thumb>
+    </sample>
+    <sample letter="D" name="Mount Street (Stop SK)" longlat="53.4772, -2.2458" dir="in" loc="Seat" colonies="64" types="6">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735193750/in/set-72157626752827976</imagepage>
+      <thumb>http://farm6.staticflickr.com/5109/5735193750_c324d8924b_q.jpg</thumb>
+    </sample>
+    <sample letter="E" name="Mount Street Central (Stop SG)" longlat="53.4783, -2.2455" dir="in" loc="Map" colonies="24" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734644801/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2406/5734644801_56e47efeec_q.jpg</thumb>
+    </sample>
+    <sample letter="F" name="Mount Street Central (Stop SG)" longlat="53.4783, -2.2455" dir="in" loc="Time Table" colonies="8" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734644481/in/set-72157626752827976</imagepage>
+      <thumb>http://farm6.staticflickr.com/5188/5734644481_97b7a1c5e4_q.jpg</thumb>
+    </sample>
+    <sample letter="G" name="Albert Square (Stop WD)" longlat="53.4794, -2.2458" dir="in" loc="Time Table" colonies="2" types="2">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735192874/in/set-72157626752827976</imagepage>
+      <thumb>http://farm6.staticflickr.com/5144/5735192874_ac7d9d1a76_q.jpg</thumb>
+    </sample>
+    <sample letter="H" name="Albert Square (Stop WD)" longlat="53.4794, -2.2458" dir="in" loc="Time Table" colonies="3" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5735192614/in/set-72157626752827976</imagepage>
+      <thumb>http://farm6.staticflickr.com/5262/5735192614_f4cef10bd6_q.jpg</thumb>
+    </sample>
+    <sample letter="I" name="Princess Street, Town Hall (Stop SA)" longlat="53.4795, -2.2438" dir="in" loc="Map" colonies="46" types="5">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734640859/in/set-72157626752827976</imagepage>
+      <thumb>http://farm3.staticflickr.com/2676/5734640859_2a3481b822_q.jpg</thumb>
+    </sample>
+    <sample letter="J" name="Princess Street, Town Hall (Stop SA)" longlat="53.4795, -2.2438" dir="in" loc="Seat" colonies="29" types="3">
+      <imagepage>http://www.flickr.com/photos/madlabuk/5734640951/in/set-72157626752827976</imagepage>
+      <thumb>http://farm4.staticflickr.com/3314/5734640951_a801077f02_q.jpg</thumb>
+    </sample>
+  </team>
+</swabdata>
